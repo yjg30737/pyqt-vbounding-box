@@ -57,5 +57,6 @@ Result
 
 https://user-images.githubusercontent.com/55078043/157777737-a801f085-936e-4f08-95bc-9ae51313454a.mp4
 
+## See Also
 
-
+<a href="https://github.com/yjg30737/pyqt-horizontal-selection-square-graphics-view.git">pyqt-horizontal-selection-square-graphics-view</a>
