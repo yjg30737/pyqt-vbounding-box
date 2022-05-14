@@ -58,6 +58,5 @@ Result
 https://user-images.githubusercontent.com/55078043/157777737-a801f085-936e-4f08-95bc-9ae51313454a.mp4
 
 ## See Also
-
-<a href="https://github.com/yjg30737/pyqt-hbounding-box.git">pyqt-hbounding-box</a> - horizontal way
-<a href="https://github.com/yjg30737/pyqt-bounding-box.git">pyqt-bounding-box</a> - horizontal/vertical ways
+* <a href="https://github.com/yjg30737/pyqt-hbounding-box.git">pyqt-hbounding-box</a> - horizontal way
+* <a href="https://github.com/yjg30737/pyqt-bounding-box.git">pyqt-bounding-box</a> - horizontal/vertical ways
