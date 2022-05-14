@@ -1,11 +1,11 @@
-# pyqt-vertical-selection-square-graphics-view
-PyQt QGraphicsView with selection box. User can move horizontal border of the box vertically.
+# pyqt-vbounding-box
+PyQt QGraphicsView with bounding box. User can move horizontal border of the box vertically.
 
 ## Requirements
 * PyQt5 >= 5.8
 
 ## Setup
-```pip3 install git+https://github.com/yjg30737/pyqt-vertical-selection-square-graphics-view.git --upgrade```
+`python -m pip install pyqt-vbounding-box`
 
 ## Feature
 * Being able to drag and drop horizontal border vertically
@@ -59,4 +59,4 @@ https://user-images.githubusercontent.com/55078043/157777737-a801f085-936e-4f08-
 
 ## See Also
 
-<a href="https://github.com/yjg30737/pyqt-horizontal-selection-square-graphics-view.git">pyqt-horizontal-selection-square-graphics-view</a>
+<a href="https://github.com/yjg30737/pyqt-hbounding-box.git">pyqt-hbounding-box</a>
