@@ -14,11 +14,13 @@ PyQt QGraphicsView with bounding box. User can move horizontal border of the box
 
 ## Example
 Code Sample
+
 ```python
 from PyQt5.QtWidgets import QWidget, QGridLayout, QApplication, QPushButton, QFileDialog
 
-from pyqt_vertical_selection_square_graphics_view.verticalSelectionSquareGraphicsView import \
-    VerticalSelectionSquareGraphicsView
+from pyqt_vbounding_box.vBoundingBox import
+
+VBoundingBox
 
 
 class VerticalSelectionSquareGraphicsViewExample(QWidget):
@@ -29,7 +31,7 @@ class VerticalSelectionSquareGraphicsViewExample(QWidget):
     def __initUi(self):
         addImageBtn = QPushButton('Add image')
         addImageBtn.clicked.connect(self.__addImage)
-        self.__view = VerticalSelectionSquareGraphicsView()
+        self.__view = VBoundingBox()
 
         lay = QGridLayout()
         lay.addWidget(addImageBtn)

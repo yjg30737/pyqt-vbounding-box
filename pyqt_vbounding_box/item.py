@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QGraphicsRectItem, QGraphicsItem
 from PyQt5.QtCore import Qt
 
 
-class SelectionSquare(QGraphicsRectItem):
+class Item(QGraphicsRectItem):
     def __init__(self, view, parent=None):
         super().__init__(parent)
         self.__initUi(view)

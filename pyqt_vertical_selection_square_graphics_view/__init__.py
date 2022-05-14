@@ -1,2 +1,0 @@
-from .selectionSquare import SelectionSquare
-from .verticalSelectionSquareGraphicsView import VerticalSelectionSquareGraphicsView
