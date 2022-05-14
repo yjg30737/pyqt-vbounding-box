@@ -18,12 +18,10 @@ Code Sample
 ```python
 from PyQt5.QtWidgets import QWidget, QGridLayout, QApplication, QPushButton, QFileDialog
 
-from pyqt_vbounding_box.vBoundingBox import
-
-VBoundingBox
+from pyqt_vbounding_box.vBoundingBox import VBoundingBox
 
 
-class VerticalSelectionSquareGraphicsViewExample(QWidget):
+class VBoundingBoxExample(QWidget):
     def __init__(self):
         super().__init__()
         self.__initUi()
@@ -50,7 +48,7 @@ if __name__ == "__main__":
     import sys
 
     app = QApplication(sys.argv)
-    ex = VerticalSelectionSquareGraphicsViewExample()
+    ex = VBoundingBoxExample()
     ex.show()
     sys.exit(app.exec_())
 ```
