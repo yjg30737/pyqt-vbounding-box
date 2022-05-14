@@ -59,4 +59,5 @@ https://user-images.githubusercontent.com/55078043/157777737-a801f085-936e-4f08-
 
 ## See Also
 
-<a href="https://github.com/yjg30737/pyqt-hbounding-box.git">pyqt-hbounding-box</a>
+<a href="https://github.com/yjg30737/pyqt-hbounding-box.git">pyqt-hbounding-box</a> - horizontal way
+<a href="https://github.com/yjg30737/pyqt-bounding-box.git">pyqt-bounding-box</a> - horizontal/vertical ways
